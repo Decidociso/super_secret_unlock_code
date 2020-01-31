@@ -12,4 +12,5 @@
 
 ## The Super Secret
 
-* Jk jk, not that easy!
+*User = Jenny McCyber
+*Password = fullstack
